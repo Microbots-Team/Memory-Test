@@ -1,2 +1,54 @@
-# Memory-Test
-An interactive memory game built with Arduino Uno where users recall LED light sequences and press buttons in the correct order to win. A fun way to test focus and improve memory skills.
+# 💡 Memory Test
+
+## 💡 Project Overview
+**Memory Test** is an **interactive electronic game** that challenges a player's ability to remember and reproduce sequences.  
+A series of **LEDs** light up in a specific order, and the player must press the corresponding **buttons** in the same sequence to succeed.  
+
+The project aims to create an engaging and educational experience that improves **memory, concentration, and reaction skills** through hands-on electronics.
+
+---
+
+## ⚙️ Components Used
+- **Arduino Uno Board** – main microcontroller controlling LEDs and buttons  
+- **LEDs** – display the visual light sequence for the player to memorize  
+- **Push Buttons** – user input interface for reproducing the LED sequence  
+- **Resistors** – regulate current for LEDs and button inputs  
+
+---
+
+## 💻 Software & Tools Used
+- **Arduino IDE** – for writing, compiling, and uploading the control program to the Arduino Uno  
+- **C/C++** – for programming logic and sequence management  
+
+---
+
+## 🌐 Connect with Us
+We’d love to share ideas and connect with other makers!  
+
+- [Malek]()  
+
+
+---
+
+### 🏁 Key Features
+- Dynamic LED light sequences with varying difficulty  
+- Real-time button input detection  
+- Memory-based challenge with success feedback  
+- Compact and easy-to-build electronic setup  
+
+---
+
+### 🚀 Future Enhancements
+- Add difficulty levels with increasing sequence lengths  
+- Include sound feedback for each light/button press  
+- Display score and level on an LCD screen  
+- Add multiplayer or timed challenge modes  
+
+---
+
+### 📜 License
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+**Made with ❤️ to make learning electronics both fun and challenging.**
