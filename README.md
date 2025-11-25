@@ -1,6 +1,6 @@
 # 💡 Memory Test
 
-## 💡 Project Overview
+##  Project Overview
 **Memory Test** is an **interactive electronic game** that challenges a player's ability to remember and reproduce sequences.  
 A series of **LEDs** light up in a specific order, and the player must press the corresponding **buttons** in the same sequence to succeed.  
 
@@ -22,10 +22,10 @@ The project aims to create an engaging and educational experience that improves 
 
 ---
 
-## 🌐 Connect with Us
-We’d love to share ideas and connect with other makers!  
+## 👨‍💻 Contributors:
+Special thanks to :
 
-- [Malek]()  
+- **Malek Shammout** [LinkedIn](https://www.linkedin.com/in/malek-shammout-090523337/)  
 
 
 ---
@@ -43,6 +43,12 @@ We’d love to share ideas and connect with other makers!
 - Include sound feedback for each light/button press  
 - Display score and level on an LCD screen  
 - Add multiplayer or timed challenge modes  
+
+---
+
+## 📸 Demo
+
+**Coming soon!**
 
 ---
 
