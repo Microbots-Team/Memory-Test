@@ -1,6 +1,15 @@
 # 💡 Memory Test
 
-##  Project Overview
+<img src="images/1.png" alt="Screenshot">
+
+## 📅 Project Timeline & Context
+
+- **Event:** FMEE 2025 – **AI & Robotics Club** Open Day
+- **Date:** November 10–11–12, 2025
+
+---
+
+## 💡 Project Overview
 **Memory Test** is an **interactive electronic game** that challenges a player's ability to remember and reproduce sequences.  
 A series of **LEDs** light up in a specific order, and the player must press the corresponding **buttons** in the same sequence to succeed.  
 
